@@ -330,7 +330,7 @@ PIP_BREAK_SYSTEM_PACKAGES=1 python3 -m pip install --force-reinstall --user /tmp
 #
 # Клонируем репозиторий antizapret
 rm -rf /tmp/antizapret
-git clone https://github.com/GubernievS/AntiZapret-VPN.git /tmp/antizapret
+git clone https://github.com/vsekretov/AntiZapret-VPN.git /tmp/antizapret
 
 #
 # Сохраняем пользовательские настройки и пользовательские обработчики custom*.sh
